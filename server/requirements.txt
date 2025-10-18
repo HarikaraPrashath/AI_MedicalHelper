@@ -1,0 +1,33 @@
+# Web Framework
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+python-multipart>=0.0.6
+
+# LangChain & Ecosystem
+langchain>=0.1.0
+langchain-groq>=0.0.5
+langchain-google-genai>=0.0.3
+
+# Vectorstore
+pinecone-client>=2.2.0
+
+# Embeddings (optional, uncomment if needed)
+# sentence-transformers>=2.2.2
+
+# PDF Parsing
+PyPDF2>=3.0.1
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Typing & Utilities
+pydantic>=2.5.0
+requests>=2.32.0
+tqdm>=4.66.0
+
+# Logging (optional but recommended)
+loguru>=0.7.0
+
+
+
+#  uv pip install -r requirements.txt

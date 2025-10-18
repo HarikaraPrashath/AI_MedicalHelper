@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2427c58b-e81b-45ed-aa94-c34df8cbf690" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Huggingface+langchain/requirement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/configuration/CustomerLogoutHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/configuration/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/controller/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/filter/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/model/AuthenticationResponce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/model/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/repository/TokenRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/repository/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/service/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/service/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAF_Project/server/src/main/java/com/paf/server/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPackageMaker/data_pipline_helper/data_pipline_helper/sql_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPackageMaker/data_pipline_helper/examples/example_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootRegister/Authenticated/src/main/java/com/Authentication/Authenticated/configuration/CustomerLogoutHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootRegister/Authenticated/src/main/java/com/Authentication/Authenticated/configuration/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootRegister/Authenticated/src/main/java/com/Authentication/Authenticated/controller/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootRegister/Authenticated/src/main/java/com/Authentication/Authenticated/filter/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootRegister/Authenticated/src/main/java/com/Authentication/Authenticated/model/AuthenticationResponce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootRegister/Authenticated/src/main/java/com/Authentication/Authenticated/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootRegister/Authenticated/src/main/java/com/Authentication/Authenticated/model/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootRegister/Authenticated/src/main/java/com/Authentication/Authenticated/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootRegister/Authenticated/src/main/java/com/Authentication/Authenticated/repository/TokenRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootRegister/Authenticated/src/main/java/com/Authentication/Authenticated/repository/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Advance Python/GenertorAndYield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Flask/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Flask/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/ImportantFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/LoggerPractiesMustToUnderstand/Logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/LoggerPractiesMustToUnderstand/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Pandas/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Pandas/file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Pandas/jsonFile_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Pandas/panda_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Pandas/quantity.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Pandas/quantity_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Pandas/userData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Simple Data Show Practies/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/Simple Data Show Practies/dataImplementTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/SmallPracticalUsingFucntion/baseClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/SmallPracticalUsingFucntion/subClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/abstruction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/accessSpecifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/billingCalculation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/callBakFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/classObject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/clouser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/conditionStetment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/constracter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/course/stremlitFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/datavar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/dbConnection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/divide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/fileHandeling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/fileRead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/functionCompostion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/higherOrderFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/importantFunctionPractical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/input_file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/levelOfMenthods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/matplotBasic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/movieTicket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/non-Constructer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/openfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/operaters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/partialFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/passwordMasking/encrypt_once.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/passwordMasking/my_sql_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/passwordMasking/password_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/polomorphisam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/pure&amp;impureFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/recursiveFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/stringManagment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/testCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/test_divide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/tuble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPracties/pythonProject/typeCasting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoRepo/my-app" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="34FNXJCab6FB2J9hZcSiebTzCg7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "local",
+    "last_opened_file_path": "D:/LangChainProject",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2427c58b-e81b-45ed-aa94-c34df8cbf690" name="Changes" comment="" />
+      <created>1760805397602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760805397602</updated>
+    </task>
+    <servers />
+  </component>
+</project>
